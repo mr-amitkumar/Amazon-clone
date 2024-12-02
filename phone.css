@@ -1,0 +1,117 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    height:120px;
+}
+.add-first {
+ display: none;
+}
+
+.add-sec {
+display: none;
+}
+
+.add-icons {
+    display: none;
+   
+}
+.nav-search {
+    width: 300px;
+    height: 40px;
+}
+
+.search-select {
+    width: 60px;
+}
+
+.search-input {
+    width: 100%;
+    font-size: 1.2rem;
+    border: none;
+}
+span{
+    display: none;
+}
+
+.nav-sec{
+    display: none;
+}
+.nav-cart{
+    display: none;
+}
+
+.panel{
+    cursor: pointer;
+    display: flex;
+    height: 35px;
+    background-color: #222f3d;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.panel i{
+    font-size: 10px;
+}
+.panel i p{
+    font-size: 9px;
+}
+.panel-ops{
+    font-size: 7px;
+}
+
+.panel-deals{
+    font-size: 8px;
+}
+.hero-section{
+    height: 180px;
+    background-size: cover;
+}
+
+.hero-msg{
+    font-size: 10px;
+   text-align: center;
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    height:250px;
+    width:36%;
+}
+.box-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 170px;
+    background-position: center;
+    margin-top: 8px;
+    width: 100%;
+}
+
+.box-content h2{
+    font-size: 13px;
+}
+
+footer{
+    margin-top: 5px;
+}
+.foot-panel1{
+    font-size: 11px;
+    height: 30px;
+}
+
+.foot-panel2{
+    height: 260px;
+}
+ul a{
+    font-size: 7px;
+}
+
+.foot-panel2 ul p{
+    font-size: 14px;
+}
+
+.foot-panel3{
+    height: 60px;
+}

@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
-    border: border-box;
 }
 
 .navbar {
@@ -130,6 +129,9 @@ span {
     justify-content: space-evenly;
 }
 
+.panel i {
+    display: flex;
+}
 .panel-ops p {
     padding-left: 15px;
     display: inline-flex;
@@ -219,7 +221,7 @@ span {
     color: #077185;
 }
 
-.box-content p a :visited {
+.box-content p a:visited {
     text-decoration: underline;
     color: violet;
 }
