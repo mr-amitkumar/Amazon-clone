@@ -88,6 +88,14 @@ span{
     margin-top: 8px;
     width: 100%;
 }
+.box:hover {
+    cursor: pointer;
+    padding:0;
+    margin: 0;
+    height: 0;
+    width: 0;
+}
+
 
 .box-content h2{
     font-size: 13px;
